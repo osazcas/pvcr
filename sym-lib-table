@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Loop-PCVR-rescue)(type Legacy)(uri "${KIPRJMOD}/Loop PCVR-rescue.lib")(options "")(descr ""))
+)
